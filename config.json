@@ -1,9 +1,9 @@
 {
     "database": {
-        "host": "utkucanpostgres.postgres.database.azure.com",
+        "host": "utkucanaydogan123.postgres.database.azure.com",
         "dbname": "postgres",
-        "user": "utkucan@UtkucanPostgres",
-        "password": "Utku.153359957",
+        "user": "uutkucan3024",
+        "password": "Utku.159753",
         "ssl": "require"
     }
 }
